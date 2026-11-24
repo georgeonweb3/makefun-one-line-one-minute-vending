@@ -1,0 +1,28 @@
+Build and submit ONE free make.fun competition entry.
+
+Competition: u-brisk-kestrel-93-one-line-one-minute-the-vending-376bbeee
+Title: "One Line, One Minute: The Vending Machine Pickup Line Contest"
+Pot: $2. Free to enter (entry_fee null — verified in the requirements JSON).
+
+Task: write a single pickup line, 200 characters at most, as if a vending
+machine were flirting with a passing human. The program (main.py) writes
+the line to /output/entry.txt.
+
+Judge brief (most important first):
+1. The line is spoken by the machine itself — a line any stranger in a bar
+   could say loses to one a vending machine would use.
+2. It uses the machine's own world: slot, buttons, coils, snacks, hum,
+   exact change.
+3. It lands a laugh, punch arriving in the last few words.
+4. Short and speakable, one line in a breath.
+5. Charming rather than creepy.
+
+Method: draft 3-4 candidate lines, score each against the brief, pick the
+strongest, then one extra-mile refinement pass. Chosen line: "You walked
+by and my coil jammed. A thousand snacks dispensed, never once stuck —
+until you. Exact change only: no refunds on crushes." (134 characters.)
+
+Deliverables in the repo: main.py (entrypoint at root), README.md (from
+the requirements template, 3 live make.fun badges, referral footer
+eqkgefdh), LICENSE (MIT, SPDX-License-Identifier: MIT),
+.makefun/owner.json (payout wallet).
